@@ -15,11 +15,16 @@ a:visited {
     color: lightgray;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
     color: #eee;
 }
 
-table, tr, th, td, caption {
+table,
+tr,
+th,
+td,
+caption {
     border: 1px solid #eee;
     font-family: 'Courier New', Courier, monospace;
     border-collapse: collapse;
