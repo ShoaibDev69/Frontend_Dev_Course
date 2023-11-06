@@ -1,0 +1,11 @@
+1. Understanding CSS Styling ✅
+2. Making CSS File ✅
+3. Understanding Linking ✅
+4. CSS Boilerplate ✅
+5. Understanding CSS Writting Way ✅
+6. Understanding width and hieght ✅
+7. Understanding units, px and % ✅
+8. Understanding margin padding ✅
+9. Understanding background images and things related to it ✅
+10. Understanding position absolute ✅
+11. Understanding flexbox ✅

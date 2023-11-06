@@ -1,0 +1,14 @@
+Make HTML file ✅
+Make boilerplate code ✅
+Understand tag's ✅
+Understand live server ✅
+Understand h1 - h6 (Headings) ✅
+Understand p ✅
+Understand br ✅
+Understand img ✅
+Understand a ✅
+
+---- Important Topics ----
+Understand div ✅
+Understand id 
+Understand class
